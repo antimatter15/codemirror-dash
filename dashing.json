@@ -1,0 +1,16 @@
+{
+    "name": "CodeMirror",
+    "package": "codemirror",
+    "index":"manual.html",
+    "allowJS": false,
+    "icon32x32": "logo.png",
+    "ExternalURL": "https://codemirror.net/doc/manual.html",
+    "selectors": {
+        "#config dt strong": "Option",
+        "#events dt strong": "Event",
+        "#commands dt strong": "Command",
+        "#styling dt strong": "Style",
+        "#api dt strong": "Method",
+        "#addons > dl > dt > a > code": "Plugin"
+    }
+}
